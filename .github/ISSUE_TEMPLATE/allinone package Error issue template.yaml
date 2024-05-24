@@ -1,4 +1,4 @@
-name: all_in_one Error Issue Template
+name: All_in_one Error Issue Template
 description: Please use this template for Install/Deploy or Running issues with the allinone package
 body:
   - type: markdown
@@ -39,7 +39,7 @@ body:
   - type: input
     id: all_in_one-version
     attributes:
-      label: all_in_one Version
+      label: All_in_one Version
       description:
       placeholder: e.g., v0.3.0
     validations:
@@ -47,7 +47,7 @@ body:
   - type: dropdown
     id: module-type
     attributes:
-      label: module type
+      label: Module type
       description: which app module on kuscia
       options:
         - secretflow
@@ -60,7 +60,7 @@ body:
   - type: input
     id: module-version
     attributes:
-      label: module version
+      label: Module version
       description: module version
       placeholder: e.g., secretflow 1.5.0b0
     validations:
@@ -78,7 +78,7 @@ body:
   - type: textarea
     id: log-output
     attributes:
-      label: log output.
+      label: Log output.
       description: Relevant log output
       placeholder: |
         job log output or Relevant module log output,
