@@ -1,5 +1,5 @@
 name: all_in_one Error Issue Template
-description: Thank you for reporting the issue!
+description: Please use this template for Install/Deploy or Running issues with the allinone package
 body:
   - type: markdown
     attributes:
