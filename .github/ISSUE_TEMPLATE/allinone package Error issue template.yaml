@@ -39,7 +39,7 @@ body:
   - type: input
     id: all_in_one-version
     attributes:
-      label: Kuscia Version
+      label: all_in_one Version
       description:
       placeholder: e.g., v0.3.0
     validations:
