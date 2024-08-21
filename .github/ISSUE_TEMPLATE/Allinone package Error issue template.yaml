@@ -69,11 +69,10 @@ body:
     attributes:
       label: Your requirements
       description: Aligning with your target enables us to better understand your issue and provide more precise and efficient solutions.
-      white-space: pre-wrap
-      placeholder:
-        1.Your objective or requirement?&#10;
-        2.Current situation or status overview?&#10;
-        3.If there are additional inquiries, you can reach out for 1-on-1 communication via technical support on WeChat (secretflow02).
+      placeholder: ｜
+        1. Your objective or requirement?&#10;
+        2. Current situation or status overview?&#10;
+        3. If there are additional inquiries, you can reach out for 1-on-1 communication via technical support on WeChat (secretflow02).
       value:
       render: shell
     validations:
