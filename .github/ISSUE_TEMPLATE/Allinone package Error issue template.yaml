@@ -69,6 +69,7 @@ body:
     attributes:
       label: Your requirements
       description: Aligning with your target enables us to better understand your issue and provide more precise and efficient solutions.
+      white-space: pre-wrap
       placeholder:
         1.Your objective or requirement?&#10;
         2.Current situation or status overview?&#10;
