@@ -70,8 +70,10 @@ body:
       label: Your requirements
       description: Understanding your target allows us to provide more precise solutions.
       placeholder: |
-            1. Your objective or requirement?
-            2. For further assistance, contact technical support directly on WeChat at secretflow02.
+            1. Requirement Type (Functionality/Performance/Others)
+            2. Desired goals to achieve
+            3. For further assistance or to communicate additional scene information, please contact us for 1-on-1 support.
+            （WeChat:secretflow02）
       value:
       render: shell
     validations:
