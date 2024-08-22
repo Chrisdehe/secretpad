@@ -65,9 +65,9 @@ body:
     validations:
       required: true
   - type: textarea
-    id: Your-objective
+    id: Demand-Description
     attributes:
-      label: Your objective
+      label: Demand Description
       description: Understanding your objective allows us to provide more precise solutions.
       placeholder: |
             1. Requirement Type (Functionality/Performance/Others)
