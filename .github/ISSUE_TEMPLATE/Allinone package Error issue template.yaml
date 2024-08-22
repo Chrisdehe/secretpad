@@ -65,13 +65,13 @@ body:
     validations:
       required: true
   - type: textarea
-    id: Your-requirements
+    id: Your-objective
     attributes:
-      label: Your requirements
-      description: Understanding your target allows us to provide more precise solutions.
+      label: Your objective
+      description: Understanding your objective allows us to provide more precise solutions.
       placeholder: |
             1. Requirement Type (Functionality/Performance/Others)
-            2. Desired goals to achieve
+            2. Desired objective to achieve
             3. For further assistance or to communicate additional scene information, please contact us for 1-on-1 support.
             （WeChat:secretflow02）
       value:
